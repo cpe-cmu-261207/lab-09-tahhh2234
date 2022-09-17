@@ -19,4 +19,6 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-(ใส่ URL ที่นี่)
+https://codesandbox.io/p/github/cpe-cmu-261207/lab-09-tahhh2234/draft/jolly-yonath?file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522cl861buy40000logcboof7q1j%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522sidekickItems%2522%253A%255B%257B%2522key%2522%253A%2522cl861byne000o3n6h36cgbb7s%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Atrue%257D%252C%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A3000%252C%2522key%2522%253A%2522cl861c5q500853n6hq53lfsv9%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522key%2522%253A%2522cl861c4th004r3n6h7twbsfbw%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D
+
+มันแดงอะครับไม่ทราบเกิดจากอะไร ในvsก็รันได้ปกติ เว็บก็ใช้งานได้ปกติ
